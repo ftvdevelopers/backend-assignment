@@ -36,12 +36,15 @@
 
 ### Instructions
 
-1. Host this assignment on a hosting platform and create a shareable link to your assignment by which we can examine your server skills.
+1. Follow the above To Do while planning for the assignment.
+2. Host this assignment on a hosting platform and create a shareable link to your assignment. By doing so we can examine your knowledge about servers.
 3. Create a GitHub repo for the code of the assignment, and in the markdown file, include two demo user's login details and if you wish you can specify the documentation of the features you have actually implemented in your assignment.
 4. While submitting the assignment make sure to include following points while reverting to the mail
   - URL of the where you have successfully hosted your assignment.
   - GitHub Link of the code of the assignment.
   - SQL File of the whole database used.
-6. 
-You have _**48 Hours**_ to complete this assignment.
-### Good Luck!
+6. You are just allowed to use core PHP. No frameworks like Codeigniter, Laravel.
+
+
+### You have _**48 Hours**_ to complete this assignment.
+## Good Luck!
