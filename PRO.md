@@ -1,5 +1,5 @@
 # Backend Assignment
-## Level : Difficult
+## Level : Intermediate
 ### To Do List
 
 1. Create a **Register Page** with following fields:
