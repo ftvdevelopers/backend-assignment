@@ -39,8 +39,8 @@
 ### Instructions
 
 1. Follow the above To Do while planning for the assignment.
-2. Host this assignment on a hosting platform and create a shareable link to your assignment. By doing so we can examine your knowledge about servers.
-3. Create a separate branch by your name in this GitHub Repo for your code of the assignment, and in your markdown file, include two demo user's login details and if you wish you can specify the documentation of the features you have actually implemented in your assignment.
+2. Host this assignment on a hosting platform and create a shareable link to your assignment. (By doing so we can examine your knowledge about servers.)
+3. Create a separate GitHub Repo for your code of the assignment, and in your markdown file, include two demo user's login details and if you wish you can specify the documentation of the features you have actually implemented in your assignment.
 4. While submitting the assignment make sure to include following points while reverting to the mail
   - URL of the where you have successfully hosted your assignment.
   - GitHub Link of the code of the assignment (if different from this repo).
