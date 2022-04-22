@@ -15,6 +15,7 @@
   - Must contain atleast a number and a special character.
 - [ ] Confirm Password - Should match above password, Case Sensitive.
 - [ ] Proper validations for the user input.
+- [ ] Capcha validation.
 
 2. Create a **Login Page** with following fields
 
@@ -25,6 +26,7 @@
     - With toggle button (hold) to peak into what user is typing..
   - [ ] Remember me
   - [ ] Proper validations and error messages for the user input.
+  - [ ] Capcha validation.
 
 3. Create a **Home Page** which will display the following data AFTER User Logs in
   - [ ] User Details of the logged in user.
